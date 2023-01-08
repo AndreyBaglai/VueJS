@@ -1,1 +1,3 @@
-# Vue JS projects in every branch
+# vue-calculator
+
+npm run serve
