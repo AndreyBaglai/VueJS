@@ -1,1 +1,1 @@
-# Vue JS projects in every branch
+# Vue JS project in every branch
